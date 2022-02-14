@@ -1,3 +1,3 @@
 public class Main1 {
-  int i = 30;
+  int i = 50;
 }
